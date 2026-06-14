@@ -1,0 +1,16 @@
+{
+  "short_name": "MickeyChat",
+  "name": "Mickey's Chat",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🐭</text></svg>",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0B0F19",
+  "theme_color": "#4F46E5",
+  "display": "standalone",
+  "orientation": "portrait"
+}

@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+python-socketio[asgi]
+pyjwt[crypto]
+passlib[bcrypt]
+pydantic[email]
+python-multipart
+pytest
+httpx
