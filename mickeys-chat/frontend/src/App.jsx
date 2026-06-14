@@ -10,8 +10,8 @@ const AuthContext = createContext(null);
 const SocketContext = createContext(null);
 const ThemeContext = createContext(null);
 
-const API_URL = `${window.location.protocol}//${window.location.hostname}:8000/api`;
-const SOCKET_URL = `${window.location.protocol}//${window.location.hostname}:8000`;
+const API_URL = `${window.location.protocol}//${window.location.hostname}/api`;
+const SOCKET_URL = `${window.location.protocol}//${window.location.hostname}`;
 
 // SVG Icons helper component to avoid external resource race conditions
 const Icon = ({ name, size = 20, className = '' }) => {
